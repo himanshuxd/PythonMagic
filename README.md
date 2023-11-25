@@ -36,7 +36,7 @@ Unleash the power of Python with a curated collection of magical scripts to simp
 
 2. ### `folder_magic.py`
 
-   The folder_magic.py script adds a specified text to the names of all folders in a given directory and then invokes an external program with the modified folder names with flags, useful when you want to extract and perform some random operation on folder names.
+   The `folder_magic.py` script adds a specified text to the names of all folders in a given directory and then invokes an external program with the modified folder names with flags, useful when you want to extract and perform some random operation on folder names.
 
    #### Usage:
 

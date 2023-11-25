@@ -2,26 +2,25 @@
 
 Unleash the power of Python with a curated collection of magical scripts to simplify your computer usage and coding workflows. I personally use these for data processing and Machine Learning workflows in my Data Science projects.
 
-## What PythonMagic Offers:
+## What Python Offers:
 
-- **Effortless Automation:** Elevate your computer experience with scripts designed for seamless automation of routines.
-- **Versatile Spells:** Explore scripts suitable for both Python beginners and wizards of code.
-- **Tailored Potions:** Customize and adapt scripts to concoct solutions that suit your specific productivity needs.
+- **Effortless Automation:** These scripts were made for seamless automation of routines.
+- **Tailoring:** Customize them to make new Python programs that suit your specific needs.
 
 ## List of Scripts:
 
 1. ### `searchify.py`
 
-   The `searchify.py` script transforms your search terms which could be corrupted with spaces and special characters etc into Google search URLs for easy verification and checking, making it easier to search from a long list of terms from a database instead of having to copy paste each term.
+   The `searchify.py` script transforms your search terms which could be corrupted with spaces and special characters etc into Google search URLs for easy checking, making it faster to search from a long list of terms in a database instead of having to do it individually through copy pasting etc.
 
    #### Usage:
 
-   Simply run the script, and it will generate Google search URLs for a list of terms, handling special characters, leading/trailing spaces, and converting spaces to `+` in the URL turning them into valid Google search URLs that are clickable.
+   Replace `terms_list` variable, executing the script will then generate Google search URLs for the given list of terms in `term_list`, handling special characters, leading or trailing spaces, and converting spaces to `+` in the URL turning it into valid Google search URLs that are clickable.
 
    ```bash
      python searchify.py
    ```
-   #### Sample Output :
+   #### Sample Output:
    ```
     https://www.google.com/search?q=Ma+ch+n3+Learn+ng
     https://www.google.com/search?q=Cry+pt0graphy+2020
@@ -45,9 +44,9 @@ Unleash the power of Python with a curated collection of magical scripts to simp
    ```bash
      python folder_magic.py
    ```
-## Contribution :
+## Contribution:
 
-Feel free to contribute your own spells to PythonMagic. Let Python empower us to create, automate, and do more.
+Feel free to add your own spells to PythonMagic.
 
 ## Other magical repositories:
 

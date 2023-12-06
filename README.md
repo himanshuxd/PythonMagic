@@ -44,6 +44,21 @@ Unleash the power of Python with a curated collection of magical scripts to simp
    ```bash
      python folder_magic.py
    ```
+
+3. ### `low_resolution_videos.py`
+
+   The `low_resolution_videos.py` script swiftly scans through all video files in a specified folder and its subfolders, identifying those with resolutions lower than certain threshold (240p). The script is useful when you want to exclude low resolution videos from your training or test set when working with computer vision models.
+
+   #### Usage:
+
+   Replace `'\path\to\folder'` with the actual path of the folder you want to process.
+
+   ```bash
+     python low_resolution_videos.py
+   ```
+
+
+
 ## Contribution:
 
 Feel free to add your own spells to PythonMagic.
